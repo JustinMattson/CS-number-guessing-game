@@ -1,0 +1,13 @@
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.csprojAssemblyReference.cache
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.AssemblyInfoInputs.cache
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.AssemblyInfo.cs
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.csproj.CoreCompileInputs.cache
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.exe
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.deps.json
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.runtimeconfig.json
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.runtimeconfig.dev.json
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.dll
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.pdb
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.dll
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.pdb
+C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.genruntimeconfig.cache
