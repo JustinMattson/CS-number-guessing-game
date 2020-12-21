@@ -21,6 +21,7 @@ namespace numberGuessingGame
 
         Console.WriteLine("\nGuess a number between 1 and 100");
         int num = Convert.ToInt32(Console.ReadLine());
+
         while (num > 100 || num <= 0)
         {
           Console.Clear();
@@ -34,7 +35,6 @@ namespace numberGuessingGame
         // Previous Error used to determine if most recent guess is closer than the last guess:
         string hint = "";
         int prevError = Math.Abs(genRand - num);
-        // Console.WriteLine($"prevError: " + prevError);
 
         while (num != genRand)
         {
@@ -45,16 +45,13 @@ namespace numberGuessingGame
             Console.WriteLine("\nInvalid entry, try again.");
             Console.WriteLine("\nGuess a number between 1 and 100");
             num = Convert.ToInt32(Console.ReadLine());
-            count++;
           }
 
           Console.Clear();
           Console.WriteLine($"(" + count + ") You guessed " + num);
           int error = Math.Abs(genRand - num);
-          // Console.WriteLine($"     error: " + error);
-          // Console.WriteLine($" prevError: " + prevError);
 
-          // determine hints
+          // Establish Hint
           if (prevError > error && count > 1 && hints == "Y")
           {
             hint = "  ...getting warmer, ";
@@ -69,7 +66,7 @@ namespace numberGuessingGame
           }
           else
           {
-            Console.WriteLine("no hints");
+            Console.WriteLine("  You got this!");
           }
 
           // Console.WriteLine($"     count: " + count);
@@ -83,7 +80,7 @@ namespace numberGuessingGame
           {
             Console.WriteLine(hint + "guess lower...\n");
           }
-          else
+          else // should never get here!
           {
             Console.WriteLine("\nYou hit the nail right on the head!");
           }
@@ -94,13 +91,14 @@ namespace numberGuessingGame
           {
             if (prevError > error)
             {
-              Console.WriteLine($"Your guess was warmer by: " + Math.Abs(prevError - error));
+              Console.WriteLine($"  Hint: you guessed warmer by " + Math.Abs(prevError - error) + ", guess again. You got this!\n");
             }
             else if (prevError < error)
             {
-              Console.WriteLine($"Your guess was colder by: " + Math.Abs(prevError - error));
+              Console.WriteLine($"  Hint: you guessed colder by " + Math.Abs(prevError - error) + ", guess again. You got this!\n");
             }
           }
+
 
           // Prepare next round
           num = Convert.ToInt32(Console.ReadLine());
