@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toyvo\\source\\codeworks\\summer2020\\c#\\guessingGame\\guessingGame.csproj": {}
+    "D:\\source\\Codeworks\\summer2020\\w10d2\\CS-number-guessing-game\\guessingGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toyvo\\source\\codeworks\\summer2020\\c#\\guessingGame\\guessingGame.csproj": {
+    "D:\\source\\Codeworks\\summer2020\\w10d2\\CS-number-guessing-game\\guessingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toyvo\\source\\codeworks\\summer2020\\c#\\guessingGame\\guessingGame.csproj",
+        "projectUniqueName": "D:\\source\\Codeworks\\summer2020\\w10d2\\CS-number-guessing-game\\guessingGame.csproj",
         "projectName": "guessingGame",
-        "projectPath": "C:\\Users\\toyvo\\source\\codeworks\\summer2020\\c#\\guessingGame\\guessingGame.csproj",
+        "projectPath": "D:\\source\\Codeworks\\summer2020\\w10d2\\CS-number-guessing-game\\guessingGame.csproj",
         "packagesPath": "C:\\Users\\toyvo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toyvo\\source\\codeworks\\summer2020\\c#\\guessingGame\\obj\\",
+        "outputPath": "D:\\source\\Codeworks\\summer2020\\w10d2\\CS-number-guessing-game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\toyvo\\AppData\\Roaming\\NuGet\\NuGet.Config"

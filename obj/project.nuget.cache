@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NvlvK0LkXYhUGPkb6ZY/iMa5G+6lt6AV/pYYz57ebyPjgDCAKu33QK8rnoQx0GoDRIdNBBNhGrS9DpazdzKlVw==",
+  "dgSpecHash": "5ANLQ1ENzolRfTaHU9TyrplVYupQGdF56t0kSdd1pmGsXEKC3tS7zGvvrO4k3vEZquD61pYjJu++SfDhVNI2MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\toyvo\\source\\codeworks\\summer2020\\c#\\guessingGame\\guessingGame.csproj",
+  "projectFilePath": "D:\\source\\Codeworks\\summer2020\\w10d2\\CS-number-guessing-game\\guessingGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

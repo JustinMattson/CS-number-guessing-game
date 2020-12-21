@@ -11,3 +11,16 @@ C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\bin\Debug\netcoreapp3
 C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.dll
 C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.pdb
 C:\Users\toyvo\source\codeworks\summer2020\c#\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.genruntimeconfig.cache
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\bin\Debug\netcoreapp3.1\guessingGame.exe
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\bin\Debug\netcoreapp3.1\guessingGame.deps.json
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\bin\Debug\netcoreapp3.1\guessingGame.runtimeconfig.json
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\bin\Debug\netcoreapp3.1\guessingGame.runtimeconfig.dev.json
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\bin\Debug\netcoreapp3.1\guessingGame.dll
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\bin\Debug\netcoreapp3.1\guessingGame.pdb
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\obj\Debug\netcoreapp3.1\guessingGame.csprojAssemblyReference.cache
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\obj\Debug\netcoreapp3.1\guessingGame.AssemblyInfoInputs.cache
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\obj\Debug\netcoreapp3.1\guessingGame.AssemblyInfo.cs
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\obj\Debug\netcoreapp3.1\guessingGame.csproj.CoreCompileInputs.cache
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\obj\Debug\netcoreapp3.1\guessingGame.dll
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\obj\Debug\netcoreapp3.1\guessingGame.pdb
+D:\source\Codeworks\summer2020\w10d2\CS-number-guessing-game\obj\Debug\netcoreapp3.1\guessingGame.genruntimeconfig.cache
